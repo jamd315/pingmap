@@ -1,0 +1,5 @@
+{
+    "ipdata_co_key": "",
+    "gmaps_key": "should be a google maps API key for geocoding",
+    "mapbox_token": ""
+}
